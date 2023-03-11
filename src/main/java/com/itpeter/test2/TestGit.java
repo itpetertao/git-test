@@ -8,5 +8,6 @@ package com.itpeter.test2;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("this is a new git test");
+        System.out.println("this is a new git test2");
     }
 }
